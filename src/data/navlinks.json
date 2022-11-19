@@ -1,0 +1,16 @@
+{
+    "links": [
+        {
+            "title": "Dashboard",
+            "path": ""
+        },
+        {
+            "title": "Transactions",
+            "path": "transactions"
+        },
+        {
+            "title": "Dividends",
+            "path": "dividends"
+        }
+    ]
+}

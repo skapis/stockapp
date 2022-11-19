@@ -1,0 +1,705 @@
+{
+  "total": 100,
+  "items": [
+    {
+      "Id": "SYY",
+      "Subject": "SYY - Declaration Date - 0.49",
+      "StartTime": "2022-08-25",
+      "EndTime": "2022-08-25",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "SYY",
+      "Subject": "SYY - Ex Date - 0.49",
+      "StartTime": "2022-10-06",
+      "EndTime": "2022-10-06",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "SYY",
+      "Subject": "SYY - Record Date - 0.49",
+      "StartTime": "2022-10-07",
+      "EndTime": "2022-10-07",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "SYY",
+      "Subject": "SYY - Pay Date - 0.49",
+      "StartTime": "2022-10-28",
+      "EndTime": "2022-10-28",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "KO",
+      "Subject": "KO - Declaration Date - 0.44",
+      "StartTime": "2022-10-20",
+      "EndTime": "2022-10-20",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "KO",
+      "Subject": "KO - Ex Date - 0.44",
+      "StartTime": "2022-11-30",
+      "EndTime": "2022-11-30",
+      "CategoryColor": "#906129"
+    },
+    {
+      "Id": "KO",
+      "Subject": "KO - Record Date - 0.44",
+      "StartTime": "2022-12-01",
+      "EndTime": "2022-12-01",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "KO",
+      "Subject": "KO - Pay Date - 0.44",
+      "StartTime": "2022-12-15",
+      "EndTime": "2022-12-15",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "ABBV",
+      "Subject": "ABBV - Declaration Date - 1.41",
+      "StartTime": "2022-09-09",
+      "EndTime": "2022-09-09",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "ABBV",
+      "Subject": "ABBV - Ex Date - 1.41",
+      "StartTime": "2022-10-13",
+      "EndTime": "2022-10-13",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "ABBV",
+      "Subject": "ABBV - Record Date - 1.41",
+      "StartTime": "2022-10-14",
+      "EndTime": "2022-10-14",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "ABBV",
+      "Subject": "ABBV - Pay Date - 1.41",
+      "StartTime": "2022-11-15",
+      "EndTime": "2022-11-15",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "HRL",
+      "Subject": "HRL - Declaration Date - 0.26",
+      "StartTime": "2022-09-26",
+      "EndTime": "2022-09-26",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "HRL",
+      "Subject": "HRL - Ex Date - 0.26",
+      "StartTime": "2022-10-14",
+      "EndTime": "2022-10-14",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "HRL",
+      "Subject": "HRL - Record Date - 0.26",
+      "StartTime": "2022-10-17",
+      "EndTime": "2022-10-17",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "HRL",
+      "Subject": "HRL - Pay Date - 0.26",
+      "StartTime": "2022-11-15",
+      "EndTime": "2022-11-15",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "T",
+      "Subject": "T - Declaration Date - 0.278",
+      "StartTime": "2022-09-30",
+      "EndTime": "2022-09-30",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "T",
+      "Subject": "T - Ex Date - 0.278",
+      "StartTime": "2022-10-06",
+      "EndTime": "2022-10-06",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "T",
+      "Subject": "T - Record Date - 0.278",
+      "StartTime": "2022-10-10",
+      "EndTime": "2022-10-10",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "T",
+      "Subject": "T - Pay Date - 0.278",
+      "StartTime": "2022-11-01",
+      "EndTime": "2022-11-01",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "NUE",
+      "Subject": "NUE - Declaration Date - 0.5",
+      "StartTime": "2022-09-15",
+      "EndTime": "2022-09-15",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "NUE",
+      "Subject": "NUE - Ex Date - 0.5",
+      "StartTime": "2022-09-29",
+      "EndTime": "2022-09-29",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "NUE",
+      "Subject": "NUE - Record Date - 0.5",
+      "StartTime": "2022-09-30",
+      "EndTime": "2022-09-30",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "NUE",
+      "Subject": "NUE - Pay Date - 0.5",
+      "StartTime": "2022-11-10",
+      "EndTime": "2022-11-10",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "AFL",
+      "Subject": "AFL - Declaration Date - 0.42",
+      "StartTime": "2022-11-08",
+      "EndTime": "2022-11-08",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "AFL",
+      "Subject": "AFL - Ex Date - 0.42",
+      "StartTime": "2023-02-14",
+      "EndTime": "2023-02-14",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "AFL",
+      "Subject": "AFL - Record Date - 0.42",
+      "StartTime": "2023-02-15",
+      "EndTime": "2023-02-15",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "AFL",
+      "Subject": "AFL - Pay Date - 0.42",
+      "StartTime": "2023-03-01",
+      "EndTime": "2023-03-01",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "MO",
+      "Subject": "MO - Declaration Date - 0.94",
+      "StartTime": "2022-08-25",
+      "EndTime": "2022-08-25",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "MO",
+      "Subject": "MO - Ex Date - 0.94",
+      "StartTime": "2022-09-14",
+      "EndTime": "2022-09-14",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "MO",
+      "Subject": "MO - Record Date - 0.94",
+      "StartTime": "2022-09-15",
+      "EndTime": "2022-09-15",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "MO",
+      "Subject": "MO - Pay Date - 0.94",
+      "StartTime": "2022-10-11",
+      "EndTime": "2022-10-11",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "TROW",
+      "Subject": "TROW - Declaration Date - 1.2",
+      "StartTime": "2022-11-01",
+      "EndTime": "2022-11-01",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "TROW",
+      "Subject": "TROW - Ex Date - 1.2",
+      "StartTime": "2022-12-15",
+      "EndTime": "2022-12-15",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "TROW",
+      "Subject": "TROW - Record Date - 1.2",
+      "StartTime": "2022-12-16",
+      "EndTime": "2022-12-16",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "TROW",
+      "Subject": "TROW - Pay Date - 1.2",
+      "StartTime": "2022-12-29",
+      "EndTime": "2022-12-29",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "BEN",
+      "Subject": "BEN - Declaration Date - 0.29",
+      "StartTime": "2022-08-29",
+      "EndTime": "2022-08-29",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "BEN",
+      "Subject": "BEN - Ex Date - 0.29",
+      "StartTime": "2022-09-29",
+      "EndTime": "2022-09-29",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "BEN",
+      "Subject": "BEN - Record Date - 0.29",
+      "StartTime": "2022-09-30",
+      "EndTime": "2022-09-30",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "BEN",
+      "Subject": "BEN - Pay Date - 0.29",
+      "StartTime": "2022-10-14",
+      "EndTime": "2022-10-14",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "ADM",
+      "Subject": "ADM - Declaration Date - 0.4",
+      "StartTime": "2022-11-02",
+      "EndTime": "2022-11-02",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "ADM",
+      "Subject": "ADM - Ex Date - 0.4",
+      "StartTime": "2022-11-15",
+      "EndTime": "2022-11-15",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "ADM",
+      "Subject": "ADM - Record Date - 0.4",
+      "StartTime": "2022-11-16",
+      "EndTime": "2022-11-16",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "ADM",
+      "Subject": "ADM - Pay Date - 0.4",
+      "StartTime": "2022-12-07",
+      "EndTime": "2022-12-07",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "MET",
+      "Subject": "MET - Declaration Date - 0.5",
+      "StartTime": "2022-10-11",
+      "EndTime": "2022-10-11",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "MET",
+      "Subject": "MET - Ex Date - 0.5",
+      "StartTime": "2022-11-07",
+      "EndTime": "2022-11-07",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "MET",
+      "Subject": "MET - Record Date - 0.5",
+      "StartTime": "2022-11-08",
+      "EndTime": "2022-11-08",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "MET",
+      "Subject": "MET - Pay Date - 0.5",
+      "StartTime": "2022-12-14",
+      "EndTime": "2022-12-14",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "CSCO",
+      "Subject": "CSCO - Declaration Date - 0.38",
+      "StartTime": "2022-08-23",
+      "EndTime": "2022-08-23",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "CSCO",
+      "Subject": "CSCO - Ex Date - 0.38",
+      "StartTime": "2022-10-04",
+      "EndTime": "2022-10-04",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "CSCO",
+      "Subject": "CSCO - Record Date - 0.38",
+      "StartTime": "2022-10-05",
+      "EndTime": "2022-10-05",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "CSCO",
+      "Subject": "CSCO - Pay Date - 0.38",
+      "StartTime": "2022-10-26",
+      "EndTime": "2022-10-26",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "O",
+      "Subject": "O - Declaration Date - 0.248",
+      "StartTime": "2022-10-11",
+      "EndTime": "2022-10-11",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "O",
+      "Subject": "O - Ex Date - 0.248",
+      "StartTime": "2022-10-31",
+      "EndTime": "2022-10-31",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "O",
+      "Subject": "O - Record Date - 0.248",
+      "StartTime": "2022-11-01",
+      "EndTime": "2022-11-01",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "O",
+      "Subject": "O - Pay Date - 0.248",
+      "StartTime": "2022-11-15",
+      "EndTime": "2022-11-15",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "VZ",
+      "Subject": "VZ - Declaration Date - 0.653",
+      "StartTime": "2022-09-06",
+      "EndTime": "2022-09-06",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "VZ",
+      "Subject": "VZ - Ex Date - 0.653",
+      "StartTime": "2022-10-06",
+      "EndTime": "2022-10-06",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "VZ",
+      "Subject": "VZ - Record Date - 0.653",
+      "StartTime": "2022-10-07",
+      "EndTime": "2022-10-07",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "VZ",
+      "Subject": "VZ - Pay Date - 0.653",
+      "StartTime": "2022-11-01",
+      "EndTime": "2022-11-01",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "IBM",
+      "Subject": "IBM - Declaration Date - 1.65",
+      "StartTime": "2022-10-25",
+      "EndTime": "2022-10-25",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "IBM",
+      "Subject": "IBM - Ex Date - 1.65",
+      "StartTime": "2022-11-09",
+      "EndTime": "2022-11-09",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "IBM",
+      "Subject": "IBM - Record Date - 1.65",
+      "StartTime": "2022-11-10",
+      "EndTime": "2022-11-10",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "IBM",
+      "Subject": "IBM - Pay Date - 1.65",
+      "StartTime": "2022-12-10",
+      "EndTime": "2022-12-10",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "CVS",
+      "Subject": "CVS - Declaration Date - 0.55",
+      "StartTime": "2022-09-21",
+      "EndTime": "2022-09-21",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "CVS",
+      "Subject": "CVS - Ex Date - 0.55",
+      "StartTime": "2022-10-20",
+      "EndTime": "2022-10-20",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "CVS",
+      "Subject": "CVS - Record Date - 0.55",
+      "StartTime": "2022-10-21",
+      "EndTime": "2022-10-21",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "CVS",
+      "Subject": "CVS - Pay Date - 0.55",
+      "StartTime": "2022-11-01",
+      "EndTime": "2022-11-01",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "MMM",
+      "Subject": "MMM - Declaration Date - 1.49",
+      "StartTime": "2022-08-12",
+      "EndTime": "2022-08-12",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "MMM",
+      "Subject": "MMM - Ex Date - 1.49",
+      "StartTime": "2022-08-19",
+      "EndTime": "2022-08-19",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "MMM",
+      "Subject": "MMM - Record Date - 1.49",
+      "StartTime": "2022-08-22",
+      "EndTime": "2022-08-22",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "MMM",
+      "Subject": "MMM - Pay Date - 1.49",
+      "StartTime": "2022-09-12",
+      "EndTime": "2022-09-12",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "UVV",
+      "Subject": "UVV - Declaration Date - 0.79",
+      "StartTime": "2022-11-03",
+      "EndTime": "2022-11-03",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "UVV",
+      "Subject": "UVV - Ex Date - 0.79",
+      "StartTime": "2023-01-06",
+      "EndTime": "2023-01-06",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "UVV",
+      "Subject": "UVV - Record Date - 0.79",
+      "StartTime": "2023-01-09",
+      "EndTime": "2023-01-09",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "UVV",
+      "Subject": "UVV - Pay Date - 0.79",
+      "StartTime": "2023-02-06",
+      "EndTime": "2023-02-06",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "NYCB",
+      "Subject": "NYCB - Declaration Date - 0.17",
+      "StartTime": "2022-10-26",
+      "EndTime": "2022-10-26",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "NYCB",
+      "Subject": "NYCB - Ex Date - 0.17",
+      "StartTime": "2022-11-04",
+      "EndTime": "2022-11-04",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "NYCB",
+      "Subject": "NYCB - Record Date - 0.17",
+      "StartTime": "2022-11-07",
+      "EndTime": "2022-11-07",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "NYCB",
+      "Subject": "NYCB - Pay Date - 0.17",
+      "StartTime": "2022-11-17",
+      "EndTime": "2022-11-17",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "GIS",
+      "Subject": "GIS - Declaration Date - 0.54",
+      "StartTime": "2202-09-27",
+      "EndTime": "2202-09-27",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "GIS",
+      "Subject": "GIS - Ex Date - 0.54",
+      "StartTime": "2022-10-06",
+      "EndTime": "2022-10-06",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "GIS",
+      "Subject": "GIS - Record Date - 0.54",
+      "StartTime": "2022-10-10",
+      "EndTime": "2022-10-10",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "GIS",
+      "Subject": "GIS - Pay Date - 0.54",
+      "StartTime": "2022-11-01",
+      "EndTime": "2022-11-01",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "CAH",
+      "Subject": "CAH - Declaration Date - 0.496",
+      "StartTime": "2022-11-08",
+      "EndTime": "2022-11-08",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "CAH",
+      "Subject": "CAH - Ex Date - 0.496",
+      "StartTime": "2022-12-30",
+      "EndTime": "2022-12-30",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "CAH",
+      "Subject": "CAH - Record Date - 0.496",
+      "StartTime": "2023-01-03",
+      "EndTime": "2023-01-03",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "CAH",
+      "Subject": "CAH - Pay Date - 0.496",
+      "StartTime": "2023-01-15",
+      "EndTime": "2023-01-15",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "INTC",
+      "Subject": "INTC - Declaration Date - 0.365",
+      "StartTime": "2022-09-16",
+      "EndTime": "2022-09-16",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "INTC",
+      "Subject": "INTC - Ex Date - 0.365",
+      "StartTime": "2022-11-04",
+      "EndTime": "2022-11-04",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "INTC",
+      "Subject": "INTC - Record Date - 0.365",
+      "StartTime": "2022-11-07",
+      "EndTime": "2022-11-07",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "INTC",
+      "Subject": "INTC - Pay Date - 0.365",
+      "StartTime": "2022-12-01",
+      "EndTime": "2022-12-01",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "MSFT",
+      "Subject": "MSFT - Declaration Date - 0.68",
+      "StartTime": "2022-09-20",
+      "EndTime": "2022-09-20",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "MSFT",
+      "Subject": "MSFT - Ex Date - 0.68",
+      "StartTime": "2022-11-16",
+      "EndTime": "2022-11-16",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "MSFT",
+      "Subject": "MSFT - Record Date - 0.68",
+      "StartTime": "2022-11-17",
+      "EndTime": "2022-11-17",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "MSFT",
+      "Subject": "MSFT - Pay Date - 0.68",
+      "StartTime": "2022-12-08",
+      "EndTime": "2022-12-08",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "AAPL",
+      "Subject": "AAPL - Declaration Date - 0.23",
+      "StartTime": "2022-07-28",
+      "EndTime": "2022-07-28",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "AAPL",
+      "Subject": "AAPL - Ex Date - 0.23",
+      "StartTime": "2022-08-05",
+      "EndTime": "2022-08-05",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "AAPL",
+      "Subject": "AAPL - Record Date - 0.23",
+      "StartTime": "2022-08-08",
+      "EndTime": "2022-08-08",
+      "CategoryColor": "#357cd2"
+    },
+    {
+      "Id": "AAPL",
+      "Subject": "AAPL - Pay Date - 0.23",
+      "StartTime": "2022-08-11",
+      "EndTime": "2022-08-11",
+      "CategoryColor": "#357cd2"
+    }
+  ]
+}

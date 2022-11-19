@@ -1,0 +1,9 @@
+@import url('https://cdn.syncfusion.com/ej2/material.css');
+
+
+html{
+  --tw-bg-opacity: 1;
+  background-color: rgb(243 244 246 / var(--tw-bg-opacity));
+}
+
+

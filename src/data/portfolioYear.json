@@ -1,0 +1,22 @@
+{
+    "total": 3,
+    "parameters":{
+        "data": "transactions",
+        "type": "aggregated",
+        "by": "year"
+    },
+    "data":[
+        {
+            "year": 2020,
+            "total": 3511.48
+        },
+        {
+            "year": 2021,
+            "total": 13426.57
+        },
+        {
+            "year": 2022,
+            "total": 25109.35
+        }
+    ]
+}

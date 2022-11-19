@@ -1,0 +1,22 @@
+{
+    "total": 3,
+    "parameters":{
+        "data": "dividends",
+        "type": "aggregated",
+        "by": "year"
+    },
+    "data":[
+        {
+            "year": 2020,
+            "total": 27.8
+        },
+        {
+            "year": 2021,
+            "total": 330.14
+        },
+        {
+            "year": 2022,
+            "total": 755.62 
+        }
+    ]
+}
