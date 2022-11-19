@@ -7,7 +7,16 @@ On the second page "Transactions" is only table grid with all transactions, whic
 
 On the third page "Dividends" are widgets with total dividends and dividend yields, chart with top 10 stocks by received dividends, chart with received dividends by year. Also there is a dividend calendar, which shows declaration date, ex date, record date and pay date for companies in portfolio. At the bottom of the page is table grid with all dividends records.
 
-# Screenshots
+
+## Dashboard
+
+![/ReactJS - StockApp/Dashboard.png](https://github.com/skapis/appscreenshots/blob/729bd6185cd5f165b035da3562036b06c6b55264/ReactJS%20-%20StockApp/Dashboard.png)
+
+## Transactions
+![/ReactJS - StockApp/Transactions.png](https://github.com/skapis/appscreenshots/blob/729bd6185cd5f165b035da3562036b06c6b55264/ReactJS%20-%20StockApp/Transactions.png)
+
+## Dividends
+![/ReactJS - StockApp/DividendsPage.png](https://github.com/skapis/appscreenshots/blob/729bd6185cd5f165b035da3562036b06c6b55264/ReactJS%20-%20StockApp/DividendsPage.png)
 
 
 # Data Source and set Data Source
