@@ -35,7 +35,7 @@ const APIURL = {
 }
 ```
 
-** Currently is designed for my Googld Sheets API. So if you want to change it, you will have to change mapping of data**
+**Currently is designed for my Googld Sheets API. So if you want to change it, you will have to change mapping of data**
 
 
 
