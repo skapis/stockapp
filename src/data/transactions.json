@@ -1,1188 +1,459 @@
 {
-    "total": 132,
+    "total": 50,
     "parameters": {
         "type": "detail",
         "data": "transactions"
     },
     "data": [
         {
-            "ticker": "HRL",
-            "date": "2020-03-23",
-            "shares": 2,
-            "costs": 88.02,
-            "costs_per_share": 44.01,
-            "broker": "Revolut",
-            "type": "Buy"
-        },
-        {
-            "ticker": "KO",
-            "date": "2020-03-23",
-            "shares": 1,
-            "costs": 37.84,
-            "costs_per_share": 37.84,
-            "broker": "Revolut",
-            "type": "Buy"
-        },
-        {
-            "ticker": "SYY",
-            "date": "2020-04-20",
-            "shares": 2,
-            "costs": 100.84,
-            "costs_per_share": 50.42,
-            "broker": "Revolut",
-            "type": "Buy"
-        },
-        {
-            "ticker": "T",
-            "date": "2020-05-06",
-            "shares": 1,
-            "costs": 29,
-            "costs_per_share": 29,
-            "broker": "Revolut",
-            "type": "Buy"
-        },
-        {
-            "ticker": "T",
-            "date": "2020-05-06",
-            "shares": 1,
-            "costs": 28.99,
-            "costs_per_share": 28.99,
-            "broker": "Revolut",
-            "type": "Buy"
-        },
-        {
-            "ticker": "NUE",
-            "date": "2020-05-26",
-            "shares": 2,
-            "costs": 82.04,
-            "costs_per_share": 41.02,
-            "broker": "Revolut",
-            "type": "Buy"
-        },
-        {
-            "ticker": "MO",
-            "date": "2020-06-04",
-            "shares": 1,
-            "costs": 39.85,
-            "costs_per_share": 39.85,
-            "broker": "Revolut",
-            "type": "Buy"
-        },
-        {
-            "ticker": "AFL",
-            "date": "2020-06-04",
-            "shares": 2,
-            "costs": 76.16,
-            "costs_per_share": 38.08,
-            "broker": "Revolut",
-            "type": "Buy"
-        },
-        {
-            "ticker": "T",
-            "date": "2020-06-29",
-            "shares": 2,
-            "costs": 58.92,
-            "costs_per_share": 29.46,
-            "broker": "Revolut",
-            "type": "Buy"
-        },
-        {
-            "ticker": "TROW",
-            "date": "2020-07-07",
-            "shares": 1,
-            "costs": 124.58,
-            "costs_per_share": 124.58,
-            "broker": "Revolut",
-            "type": "Buy"
-        },
-        {
-            "ticker": "NUE",
-            "date": "2020-07-29",
-            "shares": 2,
-            "costs": 86.15682,
-            "costs_per_share": 43.07841,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "BEN",
-            "date": "2020-07-29",
-            "shares": 1,
-            "costs": 21.378707000000002,
-            "costs_per_share": 21.378707000000002,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "ADM",
-            "date": "2020-08-13",
-            "shares": 2,
-            "costs": 89.68427999999999,
-            "costs_per_share": 44.84213999999999,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "MO",
-            "date": "2020-08-14",
-            "shares": 1,
-            "costs": 42.984792,
-            "costs_per_share": 42.984792,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "MET",
-            "date": "2020-08-18",
-            "shares": 1,
-            "costs": 39.53976,
-            "costs_per_share": 39.53976,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "AFL",
-            "date": "2020-08-18",
-            "shares": 1,
-            "costs": 38.273506000000005,
-            "costs_per_share": 38.273506000000005,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "PBCT",
-            "date": "2020-08-26",
-            "shares": 4,
-            "costs": 43.159487999999996,
-            "costs_per_share": 10.789871999999999,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "CSCO",
-            "date": "2020-08-26",
-            "shares": 2,
-            "costs": 84.617783,
-            "costs_per_share": 42.3088915,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "EPD",
-            "date": "2020-09-10",
-            "shares": 6,
-            "costs": 103.98,
-            "costs_per_share": 17.330000000000002,
-            "broker": "Revolut",
-            "type": "Buy"
-        },
-        {
-            "ticker": "BEN",
-            "date": "2020-09-11",
-            "shares": 3,
-            "costs": 61.711494,
-            "costs_per_share": 20.570498,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "O",
-            "date": "2020-09-11",
-            "shares": 2,
-            "costs": 127.826724,
-            "costs_per_share": 63.913362,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "MO",
-            "date": "2020-09-18",
-            "shares": 5,
-            "costs": 201.36548000000002,
-            "costs_per_share": 40.273096,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "VZ",
-            "date": "2020-10-08",
-            "shares": 3,
-            "costs": 179.691386,
-            "costs_per_share": 59.89712866666667,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "VZ",
-            "date": "2020-10-08",
-            "shares": 1,
-            "costs": 60.236459999999994,
-            "costs_per_share": 60.236459999999994,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "LTC",
-            "date": "2020-10-13",
-            "shares": 6,
-            "costs": 216.22504800000002,
-            "costs_per_share": 36.037508,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "T",
-            "date": "2020-11-02",
-            "shares": 8,
-            "costs": 221.275536,
-            "costs_per_share": 27.659442,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "PBCT",
-            "date": "2020-11-03",
-            "shares": 2,
-            "costs": 22.86,
-            "costs_per_share": 11.43,
-            "broker": "Revolut",
-            "type": "Buy"
-        },
-        {
-            "ticker": "EPD",
-            "date": "2020-11-19",
-            "shares": -6,
-            "costs": -103.98,
-            "costs_per_share": -17.330000000000002,
-            "broker": "Revolut",
-            "type": "Sell"
-        },
-        {
-            "ticker": "MO",
-            "date": "2020-11-19",
-            "shares": 4,
-            "costs": 159.88,
-            "costs_per_share": 39.97,
-            "broker": "Revolut",
-            "type": "Buy"
-        },
-        {
-            "ticker": "BEN",
-            "date": "2020-11-19",
-            "shares": 1,
-            "costs": 20.86,
-            "costs_per_share": 20.86,
-            "broker": "Revolut",
-            "type": "Buy"
-        },
-        {
-            "ticker": "O",
-            "date": "2020-12-15",
-            "shares": 5,
-            "costs": 313.23788,
-            "costs_per_share": 62.647576,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "IBM",
-            "date": "2020-12-15",
-            "shares": 3,
-            "costs": 373.413078,
-            "costs_per_share": 124.471026,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "CVS",
-            "date": "2020-12-21",
-            "shares": 4,
-            "costs": 274.096359,
-            "costs_per_share": 68.52408975,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "LTC",
-            "date": "2020-12-31",
-            "shares": 1,
-            "costs": 38.68,
-            "costs_per_share": 38.68,
-            "broker": "Revolut",
-            "type": "Buy"
-        },
-        {
-            "ticker": "O",
-            "date": "2020-12-31",
-            "shares": 1,
-            "costs": 60.77,
-            "costs_per_share": 60.77,
-            "broker": "Revolut",
-            "type": "Buy"
-        },
-        {
-            "ticker": "MMM",
-            "date": "2021-01-25",
-            "shares": 1,
-            "costs": 169.11734399999997,
-            "costs_per_share": 169.11734399999997,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "VZ",
-            "date": "2021-01-25",
-            "shares": 1,
-            "costs": 58.131108,
-            "costs_per_share": 58.131108,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "ABBV",
-            "date": "2021-02-03",
-            "shares": 2,
-            "costs": 209.40209700000003,
-            "costs_per_share": 104.70104850000001,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "MO",
-            "date": "2021-02-18",
-            "shares": 4,
-            "costs": 175.867758,
-            "costs_per_share": 43.9669395,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "PBCT",
-            "date": "2021-02-18",
-            "shares": 2,
-            "costs": 31.103424999999998,
-            "costs_per_share": 15.551712499999999,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "LTC",
-            "date": "2021-03-11",
-            "shares": 5,
-            "costs": 216.837108,
-            "costs_per_share": 43.3674216,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "VZ",
-            "date": "2021-04-12",
-            "shares": 8,
-            "costs": 461.56617600000004,
-            "costs_per_share": 57.695772000000005,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "T",
-            "date": "2021-05-04",
-            "shares": 6,
-            "costs": 190.708308,
-            "costs_per_share": 31.784717999999998,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "LTC",
-            "date": "2021-05-17",
-            "shares": 6,
-            "costs": 240.263144,
-            "costs_per_share": 40.043857333333335,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "MET",
-            "date": "2021-05-17",
-            "shares": 4,
-            "costs": 263.71137,
-            "costs_per_share": 65.9278425,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "UVV",
-            "date": "2021-05-24",
-            "shares": 6,
-            "costs": 362.902368,
-            "costs_per_share": 60.483728000000006,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "IBM",
-            "date": "2021-05-24",
-            "shares": 2,
-            "costs": 290.387195,
-            "costs_per_share": 145.1935975,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "ABBV",
-            "date": "2021-05-24",
-            "shares": 3,
-            "costs": 348.70171999999997,
-            "costs_per_share": 116.23390666666666,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "MO",
-            "date": "2021-05-25",
-            "shares": 4,
-            "costs": 199.15626000000003,
-            "costs_per_share": 49.78906500000001,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "ABBV",
-            "date": "2021-06-22",
-            "shares": 1,
-            "costs": 115.32051200000001,
-            "costs_per_share": 115.32051200000001,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "PBCT",
-            "date": "2021-06-22",
-            "shares": 5,
-            "costs": 87.154002,
-            "costs_per_share": 17.430800400000003,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "O",
-            "date": "2021-07-14",
-            "shares": 4,
-            "costs": 275.4,
-            "costs_per_share": 68.85,
-            "broker": "Revolut",
-            "type": "Buy"
-        },
-        {
-            "ticker": "AMCR",
-            "date": "2021-07-27",
-            "shares": 14,
-            "costs": 161.458228,
-            "costs_per_share": 11.532730571428571,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "NYCB",
-            "date": "2021-07-27",
-            "shares": 25,
-            "costs": 276.825842,
-            "costs_per_share": 11.073033680000002,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "UVV",
-            "date": "2021-08-13",
-            "shares": 5,
-            "costs": 247.708206,
-            "costs_per_share": 49.5416412,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "NYCB",
-            "date": "2021-08-16",
-            "shares": 40,
-            "costs": 499.243437,
-            "costs_per_share": 12.481085924999999,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "LTC",
-            "date": "2021-08-16",
-            "shares": 14,
-            "costs": 502.06809599999997,
-            "costs_per_share": 35.86200685714285,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "MO",
-            "date": "2021-08-16",
-            "shares": 11,
-            "costs": 531.4762529999999,
-            "costs_per_share": 48.316022999999994,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "LTC",
-            "date": "2021-09-13",
-            "shares": 8,
-            "costs": 274.811412,
-            "costs_per_share": 34.3514265,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "GIS",
-            "date": "2021-09-13",
-            "shares": 3,
-            "costs": 175.822488,
-            "costs_per_share": 58.607496,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "MO",
-            "date": "2021-10-11",
-            "shares": 5,
-            "costs": 235.233063,
-            "costs_per_share": 47.046612599999996,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "T",
-            "date": "2021-10-11",
-            "shares": 18,
-            "costs": 479.92639199999996,
-            "costs_per_share": 26.66257733333333,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "LTC",
-            "date": "2021-10-11",
-            "shares": 7,
-            "costs": 229.37510099999997,
-            "costs_per_share": 32.767871571428564,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "AMCR",
-            "date": "2021-10-13",
-            "shares": -14,
-            "costs": -160.341754,
-            "costs_per_share": 11.45298242857143,
-            "broker": "Degiro",
-            "type": "Sell"
-        },
-        {
-            "ticker": "T",
-            "date": "2021-10-14",
-            "shares": 8,
-            "costs": 206.573925,
-            "costs_per_share": 25.821740625,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "NYCB",
-            "date": "2021-10-29",
-            "shares": 30,
-            "costs": 382.07835,
-            "costs_per_share": 12.735945,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "CAH",
-            "date": "2021-10-29",
-            "shares": 10,
-            "costs": 480.289329,
-            "costs_per_share": 48.0289329,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "IBM",
-            "date": "2021-11-08",
-            "shares": 2,
-            "costs": 249.05095999999998,
-            "costs_per_share": 124.52547999999999,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "VZ",
-            "date": "2021-11-08",
-            "shares": 5,
-            "costs": 261.607122,
-            "costs_per_share": 52.3214244,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "T",
-            "date": "2021-11-11",
-            "shares": 18,
-            "costs": 451.62317199999995,
-            "costs_per_share": 25.09017622222222,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "PBCT",
-            "date": "2021-11-26",
-            "shares": 2,
-            "costs": 35.64,
-            "costs_per_share": 17.82,
-            "broker": "Revolut",
-            "type": "Buy"
-        },
-        {
-            "ticker": "VZ",
-            "date": "2021-12-09",
-            "shares": 5,
-            "costs": 251.542928,
-            "costs_per_share": 50.3085856,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "UVV",
-            "date": "2021-12-09",
-            "shares": 5,
-            "costs": 245.99424,
-            "costs_per_share": 49.198848,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "CAH",
-            "date": "2021-12-27",
-            "shares": 5,
-            "costs": 256.952995,
-            "costs_per_share": 51.390598999999995,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "INTC",
-            "date": "2022-01-11",
-            "shares": 8,
-            "costs": 445.11411499999997,
-            "costs_per_share": 55.639264374999996,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "LTC",
-            "date": "2022-01-13",
-            "shares": 7,
-            "costs": 251.221116,
-            "costs_per_share": 35.88873085714285,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "VZ",
-            "date": "2022-01-13",
-            "shares": 3,
-            "costs": 160.884586,
-            "costs_per_share": 53.62819533333334,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "T",
-            "date": "2022-01-13",
-            "shares": 9,
-            "costs": 239.570898,
-            "costs_per_share": 26.618988666666667,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "INTC",
-            "date": "2022-02-09",
-            "shares": 6,
-            "costs": 298.13043,
-            "costs_per_share": 49.688404999999996,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "NYCB",
-            "date": "2022-02-09",
-            "shares": 19,
-            "costs": 224.000228,
-            "costs_per_share": 11.789485684210526,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "T",
-            "date": "2022-03-09",
-            "shares": 4,
-            "costs": 93.980185,
-            "costs_per_share": 23.49504625,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "MMM",
-            "date": "2022-03-09",
-            "shares": 3,
-            "costs": 444.002442,
-            "costs_per_share": 148.000814,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "IBM",
-            "date": "2022-03-09",
-            "shares": 1,
-            "costs": 127.64489400000001,
-            "costs_per_share": 127.64489400000001,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "INTC",
-            "date": "2022-04-11",
-            "shares": 9,
-            "costs": 423.880728,
-            "costs_per_share": 47.09785866666667,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "NYCB",
-            "date": "2022-04-11",
-            "shares": 30,
-            "costs": 300.693896,
-            "costs_per_share": 10.023129866666666,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "PBCT",
-            "date": "2022-04-05",
-            "shares": -11,
-            "costs": -161.492775,
-            "costs_per_share": 14.65,
-            "broker": "Degiro",
-            "type": "Sell"
-        },
-        {
-            "ticker": "PBCT",
-            "date": "2021-04-05",
-            "shares": -4,
-            "costs": -58.6,
-            "costs_per_share": 14.65,
-            "broker": "Revolut",
-            "type": "Sell"
-        },
-        {
-            "ticker": "MTB",
-            "date": "2022-04-05",
-            "shares": 1,
-            "costs": 163.76602499999998,
-            "costs_per_share": 163.76602499999998,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "MTB",
-            "date": "2021-04-05",
-            "shares": 0.47,
-            "costs": 76.97659999999999,
-            "costs_per_share": 163.78,
-            "broker": "Revolut",
-            "type": "Buy"
-        },
-        {
-            "ticker": "MTB",
-            "date": "2022-04-14",
-            "shares": -1,
-            "costs": -163.78,
-            "costs_per_share": 163.78,
-            "broker": "Degiro",
-            "type": "Sell"
-        },
-        {
-            "ticker": "MTB",
-            "date": "2021-04-14",
-            "shares": -0.47,
-            "costs": -76.98,
-            "costs_per_share": 163.78,
-            "broker": "Revolut",
-            "type": "Sell"
-        },
-        {
-            "ticker": "T",
-            "date": "2022-04-14",
-            "shares": 22,
-            "costs": 428.406809,
-            "costs_per_share": 19.473036772727273,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "WBD",
-            "date": "2022-10-27",
-            "shares": 12,
-            "costs": 214.196108,
-            "costs_per_share": 17.8496756666667,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "WBD",
-            "date": "2022-11-03",
-            "shares": 1,
-            "costs": 11.3,
-            "costs_per_share": 11.3,
-            "broker": "Revolut",
-            "type": "Buy"
-        },
-        {
-            "ticker": "MMM",
-            "date": "2022-05-02",
-            "shares": 4,
-            "costs": 578.8462289999999,
-            "costs_per_share": 144.71155724999997,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "TROW",
-            "date": "2022-05-02",
-            "shares": 4,
-            "costs": 493.74990399999996,
-            "costs_per_share": 123.43747599999999,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "VZ",
-            "date": "2022-05-02",
-            "shares": 8,
-            "costs": 374.173826,
-            "costs_per_share": 46.77172825,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "CAH",
-            "date": "2022-05-05",
-            "shares": 5,
-            "costs": 275.70818099999997,
-            "costs_per_share": 55.14163619999999,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "AAPL",
-            "date": "2022-05-05",
-            "shares": 4,
-            "costs": 656.80032,
-            "costs_per_share": 164.20008,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "UVV",
-            "date": "2022-05-05",
-            "shares": 8,
-            "costs": 466.64639999999997,
-            "costs_per_share": 58.330799999999996,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "MSFT",
-            "date": "2022-05-05",
-            "shares": 4,
-            "costs": 1144.5878400000001,
-            "costs_per_share": 286.14696000000004,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "META",
-            "date": "2022-05-05",
-            "shares": 2,
-            "costs": 439.42272,
-            "costs_per_share": 219.71136,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "NYCB",
-            "date": "2022-05-05",
-            "shares": 46,
-            "costs": 440.467627,
-            "costs_per_share": 9.575383195652174,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "LTC",
-            "date": "2022-05-05",
-            "shares": 20,
-            "costs": 696.466267,
-            "costs_per_share": 34.82331335,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "AFL",
-            "date": "2022-05-05",
-            "shares": 7,
-            "costs": 414.20242,
-            "costs_per_share": 59.171774285714285,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "BEN",
-            "date": "2022-05-05",
-            "shares": 20,
-            "costs": 525.430872,
-            "costs_per_share": 26.2715436,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "TROW",
-            "date": "2022-05-12",
-            "shares": 2,
-            "costs": 228.908979,
-            "costs_per_share": 114.4544895,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "BEN",
-            "date": "2022-05-12",
-            "shares": 14,
-            "costs": 333.291168,
-            "costs_per_share": 23.806512,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "NYCB",
-            "date": "2022-05-17",
-            "shares": 34,
-            "costs": 318.19206,
-            "costs_per_share": 9.358590000000001,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "BEN",
-            "date": "2022-06-10",
-            "shares": 10,
-            "costs": 248.54034000000001,
-            "costs_per_share": 24.854034000000002,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "T",
-            "date": "2022-06-10",
-            "shares": 11,
-            "costs": 230.00202000000002,
-            "costs_per_share": 20.909274545454547,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "MO",
-            "date": "2022-07-05",
-            "shares": 3,
-            "costs": 126.009114,
-            "costs_per_share": 42.003038,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "TROW",
-            "date": "2022-07-05",
-            "shares": 2,
-            "costs": 227.67770000000002,
-            "costs_per_share": 113.83885000000001,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "NYCB",
-            "date": "2022-07-05",
-            "shares": 12,
-            "costs": 110.94303,
-            "costs_per_share": 9.2452525,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "MMM",
-            "date": "2022-07-11",
-            "shares": 3,
-            "costs": 387.630208,
-            "costs_per_share": 129.21006933333334,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "TROW",
-            "date": "2022-07-14",
-            "shares": 4,
-            "costs": 437.18424,
-            "costs_per_share": 109.29606,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "INTC",
-            "date": "2022-08-11",
-            "shares": 7,
-            "costs": 252.79803900000002,
-            "costs_per_share": 36.11400557142857,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "VZ",
-            "date": "2022-08-11",
-            "shares": 6,
-            "costs": 272.15238700000003,
-            "costs_per_share": 45.35873116666667,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "NYCB",
-            "date": "2022-08-22",
-            "shares": 12,
-            "costs": 126.47,
-            "costs_per_share": 10.54,
-            "broker": "Revolut",
-            "type": "Buy"
-        },
-        {
-            "ticker": "VZ",
-            "date": "2022-09-07",
-            "shares": 6,
-            "costs": 248.931264,
-            "costs_per_share": 41.488544,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "INTC",
-            "date": "2022-09-07",
-            "shares": 7,
-            "costs": 213.86480799999998,
-            "costs_per_share": 30.552115428571426,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "LTC",
-            "date": "2022-09-22",
-            "shares": 5,
-            "costs": 199.32654000000002,
-            "costs_per_share": 39.865308000000006,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "UVV",
-            "date": "2022-09-22",
-            "shares": 4,
-            "costs": 197.635167,
-            "costs_per_share": 49.40879175,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "MO",
-            "date": "2022-10-04",
-            "shares": 7,
-            "costs": 293.20638,
-            "costs_per_share": 41.88662571428572,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "NYCB",
-            "date": "2022-10-04",
-            "shares": 35,
-            "costs": 316.78425000000004,
-            "costs_per_share": 9.050978571428573,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "BEN",
-            "date": "2022-10-10",
-            "shares": 6,
-            "costs": 133.004718,
-            "costs_per_share": 22.167453,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "VZ",
-            "date": "2022-10-10",
-            "shares": 7,
-            "costs": 261.67264199999994,
-            "costs_per_share": 37.38180599999999,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "WBD",
-            "date": "2022-10-27",
-            "shares": 12,
-            "costs": -214.19610799999998,
-            "costs_per_share": -17.849675666666666,
-            "broker": "Degiro",
-            "type": "Sell"
-        },
-        {
-            "ticker": "META",
-            "date": "2022-10-28",
-            "shares": 1,
-            "costs": 100.747624,
-            "costs_per_share": 100.747624,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "VZ",
-            "date": "2022-10-28",
-            "shares": 4,
-            "costs": 149.76986,
-            "costs_per_share": 37.442465,
-            "broker": "Degiro",
-            "type": "Buy"
-        },
-        {
-            "ticker": "WBD",
-            "date": "2022-11-03",
-            "shares": 1,
-            "costs": -11.3,
-            "costs_per_share": -11.3,
-            "broker": "Revolut",
-            "type": "Sell"
+          "Ticker": "TSLA",
+          "date": "2020-03-23",
+          "shares": 1,
+          "costs": 67.32,
+          "costs_per_share": 67.32,
+          "broker": "Revolut",
+          "type": "Buy"
+        },
+        {
+          "Ticker": "PEP",
+          "date": "2020-03-23",
+          "shares": 2,
+          "costs": 88.02,
+          "costs_per_share": 44.01,
+          "broker": "Revolut",
+          "type": "Buy"
+        },
+        {
+          "Ticker": "KO",
+          "date": "2020-03-23",
+          "shares": 1,
+          "costs": 37.84,
+          "costs_per_share": 37.84,
+          "broker": "Revolut",
+          "type": "Buy"
+        },
+        {
+          "Ticker": "SYY",
+          "date": "2020-04-20",
+          "shares": 2,
+          "costs": 100.84,
+          "costs_per_share": 50.42,
+          "broker": "Revolut",
+          "type": "Buy"
+        },
+        {
+          "Ticker": "AMD",
+          "date": "2020-05-06",
+          "shares": 1,
+          "costs": 29,
+          "costs_per_share": 29,
+          "broker": "Revolut",
+          "type": "Buy"
+        },
+        {
+          "Ticker": "AMD",
+          "date": "2020-05-06",
+          "shares": 1,
+          "costs": 28.99,
+          "costs_per_share": 28.99,
+          "broker": "Revolut",
+          "type": "Buy"
+        },
+        {
+          "Ticker": "TROW",
+          "date": "2020-05-26",
+          "shares": 2,
+          "costs": 82.04,
+          "costs_per_share": 41.02,
+          "broker": "Revolut",
+          "type": "Buy"
+        },
+        {
+          "Ticker": "MO",
+          "date": "2020-06-04",
+          "shares": 1,
+          "costs": 39.85,
+          "costs_per_share": 39.85,
+          "broker": "Revolut",
+          "type": "Buy"
+        },
+        {
+          "Ticker": "GOOGL",
+          "date": "2020-06-04",
+          "shares": 2,
+          "costs": 76.16,
+          "costs_per_share": 38.08,
+          "broker": "Revolut",
+          "type": "Buy"
+        },
+        {
+          "Ticker": "AMD",
+          "date": "2020-06-29",
+          "shares": 2,
+          "costs": 58.92,
+          "costs_per_share": 29.46,
+          "broker": "Revolut",
+          "type": "Buy"
+        },
+        {
+          "Ticker": "TROW",
+          "date": "2020-07-07",
+          "shares": 1,
+          "costs": 124.58,
+          "costs_per_share": 124.58,
+          "broker": "Revolut",
+          "type": "Buy"
+        },
+        {
+          "Ticker": "NUE",
+          "date": "2020-07-29",
+          "shares": 2,
+          "costs": 86.16,
+          "costs_per_share": 43.08,
+          "broker": "Degiro",
+          "type": "Buy"
+        },
+        {
+          "Ticker": "WBA",
+          "date": "2020-07-29",
+          "shares": 1,
+          "costs": 21.38,
+          "costs_per_share": 21.38,
+          "broker": "Degiro",
+          "type": "Buy"
+        },
+        {
+          "Ticker": "ADM",
+          "date": "2020-08-13",
+          "shares": 2,
+          "costs": 89.68,
+          "costs_per_share": 44.84,
+          "broker": "Degiro",
+          "type": "Buy"
+        },
+        {
+          "Ticker": "KO",
+          "date": "2020-08-14",
+          "shares": 1,
+          "costs": 42.98,
+          "costs_per_share": 42.98,
+          "broker": "Degiro",
+          "type": "Buy"
+        },
+        {
+          "Ticker": "VZ",
+          "date": "2020-08-18",
+          "shares": 1,
+          "costs": 39.54,
+          "costs_per_share": 39.54,
+          "broker": "Degiro",
+          "type": "Buy"
+        },
+        {
+          "Ticker": "GOOGL",
+          "date": "2020-08-18",
+          "shares": 1,
+          "costs": 38.27,
+          "costs_per_share": 38.27,
+          "broker": "Degiro",
+          "type": "Buy"
+        },
+        {
+          "Ticker": "WBA",
+          "date": "2020-08-26",
+          "shares": 4,
+          "costs": 43.16,
+          "costs_per_share": 10.79,
+          "broker": "Degiro",
+          "type": "Buy"
+        },
+        {
+          "Ticker": "CSCO",
+          "date": "2020-08-26",
+          "shares": 2,
+          "costs": 84.62,
+          "costs_per_share": 42.31,
+          "broker": "Degiro",
+          "type": "Buy"
+        },
+        {
+          "Ticker": "CAT",
+          "date": "2020-09-10",
+          "shares": 6,
+          "costs": 103.98,
+          "costs_per_share": 17.33,
+          "broker": "Revolut",
+          "type": "Buy"
+        },
+        {
+          "Ticker": "WBA",
+          "date": "2020-09-11",
+          "shares": 3,
+          "costs": 61.71,
+          "costs_per_share": 20.57,
+          "broker": "Degiro",
+          "type": "Buy"
+        },
+        {
+          "Ticker": "WMT",
+          "date": "2020-09-11",
+          "shares": 2,
+          "costs": 127.83,
+          "costs_per_share": 63.91,
+          "broker": "Degiro",
+          "type": "Buy"
+        },
+        {
+          "Ticker": "KO",
+          "date": "2020-09-18",
+          "shares": 5,
+          "costs": 201.37,
+          "costs_per_share": 40.27,
+          "broker": "Degiro",
+          "type": "Buy"
+        },
+        {
+          "Ticker": "VZ",
+          "date": "2020-10-08",
+          "shares": 3,
+          "costs": 179.69,
+          "costs_per_share": 59.9,
+          "broker": "Degiro",
+          "type": "Buy"
+        },
+        {
+          "Ticker": "VZ",
+          "date": "2020-10-08",
+          "shares": 1,
+          "costs": 60.24,
+          "costs_per_share": 60.24,
+          "broker": "Degiro",
+          "type": "Buy"
+        },
+        {
+          "Ticker": "WBA",
+          "date": "2020-10-13",
+          "shares": 6,
+          "costs": 216.23,
+          "costs_per_share": 36.04,
+          "broker": "Degiro",
+          "type": "Buy"
+        },
+        {
+          "Ticker": "AMD",
+          "date": "2020-11-02",
+          "shares": 8,
+          "costs": 221.28,
+          "costs_per_share": 27.66,
+          "broker": "Degiro",
+          "type": "Buy"
+        },
+        {
+          "Ticker": "WBA",
+          "date": "2020-11-03",
+          "shares": 2,
+          "costs": 22.86,
+          "costs_per_share": 11.43,
+          "broker": "Revolut",
+          "type": "Buy"
+        },
+        {
+          "Ticker": "KO",
+          "date": "2020-11-19",
+          "shares": 4,
+          "costs": 159.88,
+          "costs_per_share": 39.97,
+          "broker": "Revolut",
+          "type": "Buy"
+        },
+        {
+          "Ticker": "WBA",
+          "date": "2020-11-19",
+          "shares": 1,
+          "costs": 20.86,
+          "costs_per_share": 20.86,
+          "broker": "Revolut",
+          "type": "Buy"
+        },
+        {
+          "Ticker": "WMT",
+          "date": "2020-12-15",
+          "shares": 5,
+          "costs": 313.24,
+          "costs_per_share": 62.65,
+          "broker": "Degiro",
+          "type": "Buy"
+        },
+        {
+          "Ticker": "IBM",
+          "date": "2020-12-15",
+          "shares": 3,
+          "costs": 373.41,
+          "costs_per_share": 124.47,
+          "broker": "Degiro",
+          "type": "Buy"
+        },
+        {
+          "Ticker": "CVS",
+          "date": "2020-12-21",
+          "shares": 4,
+          "costs": 274.1,
+          "costs_per_share": 68.52,
+          "broker": "Degiro",
+          "type": "Buy"
+        },
+        {
+          "Ticker": "WBA",
+          "date": "2020-12-31",
+          "shares": 1,
+          "costs": 38.68,
+          "costs_per_share": 38.68,
+          "broker": "Revolut",
+          "type": "Buy"
+        },
+        {
+          "Ticker": "WMT",
+          "date": "2020-12-31",
+          "shares": 1,
+          "costs": 60.77,
+          "costs_per_share": 60.77,
+          "broker": "Revolut",
+          "type": "Buy"
+        },
+        {
+          "Ticker": "MMM",
+          "date": "2021-01-25",
+          "shares": 1,
+          "costs": 169.12,
+          "costs_per_share": 169.12,
+          "broker": "Degiro",
+          "type": "Buy"
+        },
+        {
+          "Ticker": "VZ",
+          "date": "2021-01-25",
+          "shares": 1,
+          "costs": 58.13,
+          "costs_per_share": 58.13,
+          "broker": "Degiro",
+          "type": "Buy"
+        },
+        {
+          "Ticker": "TSLA",
+          "date": "2021-02-03",
+          "shares": 2,
+          "costs": 209.4,
+          "costs_per_share": 104.7,
+          "broker": "Degiro",
+          "type": "Buy"
+        },
+        {
+          "Ticker": "KO",
+          "date": "2021-02-18",
+          "shares": 4,
+          "costs": 175.87,
+          "costs_per_share": 43.97,
+          "broker": "Degiro",
+          "type": "Buy"
+        },
+        {
+          "Ticker": "WBA",
+          "date": "2021-02-18",
+          "shares": 2,
+          "costs": 31.1,
+          "costs_per_share": 15.55,
+          "broker": "Degiro",
+          "type": "Buy"
+        },
+        {
+          "Ticker": "WBA",
+          "date": "2021-03-11",
+          "shares": 5,
+          "costs": 216.84,
+          "costs_per_share": 43.37,
+          "broker": "Degiro",
+          "type": "Buy"
+        },
+        {
+          "Ticker": "VZ",
+          "date": "2021-04-12",
+          "shares": 8,
+          "costs": 461.57,
+          "costs_per_share": 57.7,
+          "broker": "Degiro",
+          "type": "Buy"
+        },
+        {
+          "Ticker": "AMD",
+          "date": "2021-05-04",
+          "shares": 6,
+          "costs": 190.71,
+          "costs_per_share": 31.78,
+          "broker": "Degiro",
+          "type": "Buy"
+        },
+        {
+          "Ticker": "WBA",
+          "date": "2021-05-17",
+          "shares": 6,
+          "costs": 240.26,
+          "costs_per_share": 40.04,
+          "broker": "Degiro",
+          "type": "Buy"
+        },
+        {
+          "Ticker": "MET",
+          "date": "2021-05-17",
+          "shares": 4,
+          "costs": 263.71,
+          "costs_per_share": 65.93,
+          "broker": "Degiro",
+          "type": "Buy"
+        },
+        {
+          "Ticker": "VZ",
+          "date": "2021-05-24",
+          "shares": 6,
+          "costs": 362.9,
+          "costs_per_share": 60.48,
+          "broker": "Degiro",
+          "type": "Buy"
+        },
+        {
+          "Ticker": "IBM",
+          "date": "2021-05-24",
+          "shares": 2,
+          "costs": 290.39,
+          "costs_per_share": 145.19,
+          "broker": "Degiro",
+          "type": "Buy"
+        },
+        {
+          "Ticker": "TSLA",
+          "date": "2021-05-24",
+          "shares": 3,
+          "costs": 348.7,
+          "costs_per_share": 116.23,
+          "broker": "Degiro",
+          "type": "Buy"
+        },
+        {
+          "Ticker": "KO",
+          "date": "2021-05-25",
+          "shares": 4,
+          "costs": 199.16,
+          "costs_per_share": 49.79,
+          "broker": "Degiro",
+          "type": "Buy"
+        },
+        {
+          "Ticker": "TSLA",
+          "date": "2021-06-22",
+          "shares": 1,
+          "costs": 115.32,
+          "costs_per_share": 115.32,
+          "broker": "Degiro",
+          "type": "Buy"
         }
-    ]
+      ]
 }

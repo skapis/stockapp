@@ -1,264 +1,160 @@
 {
-    "total": 32,
+    "total": 20,
     "parameters": {
         "type": "aggregated"
     },
     "data": [
         {
-            "ticker": "ABBV",
-            "total": "740.74",
-            "market": "1016.96",
-            "shares": 7,
-            "dividends": "48.04",
-            "ts": "2022-11-05"
+          "ticker": "ADM",
+          "total": 89.68428,
+          "market": 95.15,
+          "shares": 2,
+          "dividends": 10,
+          "ts": "2022-11-20"
         },
         {
-            "ticker": "HRL",
-            "total": "88.02",
-            "market": "92.12",
-            "shares": 2,
-            "dividends": "4.20",
-            "ts": "2022-11-05"
+          "ticker": "AMD",
+          "total": 528.893844,
+          "market": 367.85,
+          "shares": 18,
+          "dividends": 0,
+          "ts": "2022-11-20"
         },
         {
-            "ticker": "KO",
-            "total": "37.84",
-            "market": "59.26",
-            "shares": 1,
-            "dividends": "3.60",
-            "ts": "2022-11-05"
+          "ticker": "CAT",
+          "total": 103.98,
+          "market": 231.43,
+          "shares": 6,
+          "dividends": 15.56,
+          "ts": "2022-11-20"
         },
         {
-            "ticker": "SYY",
-            "total": "100.84",
-            "market": "164.50",
-            "shares": 2,
-            "dividends": "7.07",
-            "ts": "2022-11-05"
+          "ticker": "CSCO",
+          "total": 84.617783,
+          "market": 47.79,
+          "shares": 2,
+          "dividends": 18,
+          "ts": "2022-11-20"
         },
         {
-            "ticker": "T",
-            "total": "2658.98",
-            "market": "1978.56",
-            "shares": 108,
-            "dividends": "100.64",
-            "ts": "2022-11-05"
+          "ticker": "CVS",
+          "total": 274.096359,
+          "market": 97.35,
+          "shares": 4,
+          "dividends": 17.5,
+          "ts": "2022-11-20"
         },
         {
-            "ticker": "NUE",
-            "total": "168.20",
-            "market": "534.24",
-            "shares": 4,
-            "dividends": "12.69",
-            "ts": "2022-11-05"
+          "ticker": "GOOGL",
+          "total": 114.433506,
+          "market": 194.86,
+          "shares": 3,
+          "dividends": 2.52,
+          "ts": "2022-11-20"
         },
         {
-            "ticker": "MO",
-            "total": "2005.03",
-            "market": "2047.50",
-            "shares": 45,
-            "dividends": "168.66",
-            "ts": "2022-11-05"
+          "ticker": "IBM",
+          "total": 663.800273,
+          "market": 295.28,
+          "shares": 5,
+          "dividends": 300,
+          "ts": "2022-11-20"
         },
         {
-            "ticker": "AFL",
-            "total": "528.64",
-            "market": "671.80",
-            "shares": 10,
-            "dividends": "12.38",
-            "ts": "2022-11-05"
+          "ticker": "KO",
+          "total": 817.09429,
+          "market": 366.84,
+          "shares": 19,
+          "dividends": 56,
+          "ts": "2022-11-20"
         },
         {
-            "ticker": "TROW",
-            "total": "1512.10",
-            "market": "1336.79",
-            "shares": 13,
-            "dividends": "27.13",
-            "ts": "2022-11-05"
+          "ticker": "MET",
+          "total": 263.71137,
+          "market": 75.5,
+          "shares": 4,
+          "dividends": 48,
+          "ts": "2022-11-20"
         },
         {
-            "ticker": "BEN",
-            "total": "1344.22",
-            "market": "1283.15",
-            "shares": 55,
-            "dividends": "32.32",
-            "ts": "2022-11-05"
+          "ticker": "MMM",
+          "total": 169.117344,
+          "market": 126.76,
+          "shares": 1,
+          "dividends": 89.25,
+          "ts": "2022-11-20"
         },
         {
-            "ticker": "ADM",
-            "total": "89.68",
-            "market": "190.38",
-            "shares": 2,
-            "dividends": "5.78",
-            "ts": "2022-11-05"
+          "ticker": "MO",
+          "total": 39.85,
+          "market": 44.2,
+          "shares": 1,
+          "dividends": 125.63,
+          "ts": "2022-11-20"
         },
         {
-            "ticker": "MET",
-            "total": "303.25",
-            "market": "370.55",
-            "shares": 5,
-            "dividends": "11.55",
-            "ts": "2022-11-05"
+          "ticker": "NUE",
+          "total": 86.15682,
+          "market": 142.03,
+          "shares": 2,
+          "dividends": 38.45,
+          "ts": "2022-11-20"
         },
         {
-            "ticker": "PBCT",
-            "total": "-0.18",
-            "market": "-0.00",
-            "shares": 0,
-            "dividends": "9.16",
-            "ts": "2022-11-05"
+          "ticker": "PEP",
+          "total": 88.02,
+          "market": 181.33,
+          "shares": 2,
+          "dividends": 10.02,
+          "ts": "2022-11-20"
         },
         {
-            "ticker": "CSCO",
-            "total": "84.62",
-            "market": "89.04",
-            "shares": 2,
-            "dividends": "5.69",
-            "ts": "2022-11-05"
+          "ticker": "SYY",
+          "total": 100.84,
+          "market": 85.06,
+          "shares": 2,
+          "dividends": 8.45,
+          "ts": "2022-11-20"
         },
         {
-            "ticker": "EPD",
-            "total": "0.00",
-            "market": "0.00",
-            "shares": 0,
-            "dividends": "2.67",
-            "ts": "2022-11-05"
+          "ticker": "TROW",
+          "total": 206.62,
+          "market": 244.14,
+          "shares": 3,
+          "dividends": 123.58,
+          "ts": "2022-11-20"
         },
         {
-            "ticker": "O",
-            "total": "777.23",
-            "market": "756.12",
-            "shares": 12,
-            "dividends": "61.81",
-            "ts": "2022-11-05"
+          "ticker": "TSLA",
+          "total": 740.744329,
+          "market": 720.76,
+          "shares": 7,
+          "dividends": 0,
+          "ts": "2022-11-20"
         },
         {
-            "ticker": "VZ",
-            "total": "2740.36",
-            "market": "2122.68",
-            "shares": 57,
-            "dividends": "63.96",
-            "ts": "2022-11-05"
+          "ticker": "VZ",
+          "total": 1162.067258,
+          "market": 231.3,
+          "shares": 20,
+          "dividends": 400.12,
+          "ts": "2022-11-20"
         },
         {
-            "ticker": "LTC",
-            "total": "2865.27",
-            "market": "3075.47",
-            "shares": 79,
-            "dividends": "146.97",
-            "ts": "2022-11-05"
+          "ticker": "WBA",
+          "total": 913.078414,
+          "market": 336.48,
+          "shares": 31,
+          "dividends": 87.96,
+          "ts": "2022-11-20"
         },
         {
-            "ticker": "IBM",
-            "total": "1040.50",
-            "market": "1095.68",
-            "shares": 8,
-            "dividends": "57.27",
-            "ts": "2022-11-05"
-        },
-        {
-            "ticker": "CVS",
-            "total": "274.10",
-            "market": "398.24",
-            "shares": 4,
-            "dividends": "12.41",
-            "ts": "2022-11-05"
-        },
-        {
-            "ticker": "MMM",
-            "total": "1579.60",
-            "market": "1373.24",
-            "shares": 11,
-            "dividends": "30.37",
-            "ts": "2022-11-05"
-        },
-        {
-            "ticker": "UVV",
-            "total": "1520.89",
-            "market": "1515.36",
-            "shares": 28,
-            "dividends": "48.61",
-            "ts": "2022-11-05"
-        },
-        {
-            "ticker": "AMCR",
-            "total": "1.12",
-            "market": "0.00",
-            "shares": 0,
-            "dividends": "1.65",
-            "ts": "2022-11-05"
-        },
-        {
-            "ticker": "NYCB",
-            "total": "2995.70",
-            "market": "2515.87",
-            "shares": 283,
-            "dividends": "181.63",
-            "ts": "2022-11-05"
-        },
-        {
-            "ticker": "GIS",
-            "total": "175.82",
-            "market": "237.18",
-            "shares": 3,
-            "dividends": "5.28",
-            "ts": "2022-11-05"
-        },
-        {
-            "ticker": "CAH",
-            "total": "1012.95",
-            "market": "1590.40",
-            "shares": 20,
-            "dividends": "29.36",
-            "ts": "2022-11-05"
-        },
-        {
-            "ticker": "INTC",
-            "total": "1633.79",
-            "market": "1043.40",
-            "shares": 37,
-            "dividends": "16.76",
-            "ts": "2022-11-05"
-        },
-        {
-            "ticker": "MTB",
-            "total": "-0.02",
-            "market": "0.00",
-            "shares": 0,
-            "dividends": "0.00",
-            "ts": "2022-11-05"
-        },
-        {
-            "ticker": "WBD",
-            "total": "0.00",
-            "market": "-0.00",
-            "shares": 26,
-            "dividends": "0.00",
-            "ts": "2022-11-05"
-        },
-        {
-            "ticker": "AAPL",
-            "total": "656.80",
-            "market": "553.52",
-            "shares": 4,
-            "dividends": "1.56",
-            "ts": "2022-11-05"
-        },
-        {
-            "ticker": "MSFT",
-            "total": "1144.59",
-            "market": "885.56",
-            "shares": 4,
-            "dividends": "4.22",
-            "ts": "2022-11-05"
-        },
-        {
-            "ticker": "META",
-            "total": "540.17",
-            "market": "272.37",
-            "shares": 3,
-            "dividends": "0.00",
-            "ts": "2022-11-05"
+          "ticker": "WMT",
+          "total": 501.834604,
+          "market": 450.69,
+          "shares": 8,
+          "dividends": 78.92,
+          "ts": "2022-11-20"
         }
-    ]
+      ]
 }

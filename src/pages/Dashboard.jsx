@@ -35,19 +35,23 @@ const Dashboard = () => {
                 <Widget title="Gain/Loss" value={dataWrangling.gainLoss(dataWrangling.totalVal(stocks.data, 'market'), dataWrangling.totalVal(stocks.data, 'total'))[0] } currency='$' prc={dataWrangling.gainLoss(dataWrangling.totalVal(stocks.data, 'market'), dataWrangling.totalVal(stocks.data, 'total'))[1]}/>
                 <Widget title="Total Dividends" value={dataWrangling.totalVal(stocks.data, 'dividends')} currency='$'/>
             </div>
-            <div className='grid gap-6 md:grid-cols-2 xl:grid-cols-2 px-10 rounded-lg'>
-               <PieChart
-                    id='stockChart'
-                    data={dataWrangling.topBy(stocks.data, 'market', 10)}
-                    xName='ticker' yName='market' name='ticker'
-                    title='Top 10 Stocks in portfolio by Market Value'
-                />
-                <LineChart
-                    id='portfolioByYear'
-                    data={yearData.data}
-                    xTitle='Year' yTitle='Value' xName='year' yName='total'
-                    title='Portfolio Value by Year'
-                />
+            <div className='grid gap-6 xl:grid-cols-2 md:grid-cols-2 px-10 rounded-lg'>
+                <div>
+                    <PieChart
+                        id='stockChart'
+                        data={dataWrangling.topBy(stocks.data, 'market', 10)}
+                        xName='ticker' yName='market' name='ticker'
+                        title='Top 10 Stocks in portfolio by Market Value'
+                    />
+                </div>
+                <div>
+                    <LineChart
+                        id='portfolioByYear'
+                        data={yearData.data}
+                        xTitle='Year' yTitle='Value' xName='year' yName='total'
+                        title='Portfolio Value by Year'
+                    />
+                </div>
             </div>
             <div className='p-10'>
                 <GridComponent dataSource={stocks.data} allowPaging={true} allowSorting={true} >
