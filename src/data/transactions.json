@@ -6,7 +6,7 @@
     },
     "data": [
         {
-          "Ticker": "TSLA",
+          "ticker": "TSLA",
           "date": "2020-03-23",
           "shares": 1,
           "costs": 67.32,
@@ -15,7 +15,7 @@
           "type": "Buy"
         },
         {
-          "Ticker": "PEP",
+          "ticker": "PEP",
           "date": "2020-03-23",
           "shares": 2,
           "costs": 88.02,
@@ -24,7 +24,7 @@
           "type": "Buy"
         },
         {
-          "Ticker": "KO",
+          "ticker": "KO",
           "date": "2020-03-23",
           "shares": 1,
           "costs": 37.84,
@@ -33,7 +33,7 @@
           "type": "Buy"
         },
         {
-          "Ticker": "SYY",
+          "ticker": "SYY",
           "date": "2020-04-20",
           "shares": 2,
           "costs": 100.84,
@@ -42,7 +42,7 @@
           "type": "Buy"
         },
         {
-          "Ticker": "AMD",
+          "ticker": "AMD",
           "date": "2020-05-06",
           "shares": 1,
           "costs": 29,
@@ -51,7 +51,7 @@
           "type": "Buy"
         },
         {
-          "Ticker": "AMD",
+          "ticker": "AMD",
           "date": "2020-05-06",
           "shares": 1,
           "costs": 28.99,
@@ -60,7 +60,7 @@
           "type": "Buy"
         },
         {
-          "Ticker": "TROW",
+          "ticker": "TROW",
           "date": "2020-05-26",
           "shares": 2,
           "costs": 82.04,
@@ -69,7 +69,7 @@
           "type": "Buy"
         },
         {
-          "Ticker": "MO",
+          "ticker": "MO",
           "date": "2020-06-04",
           "shares": 1,
           "costs": 39.85,
@@ -78,7 +78,7 @@
           "type": "Buy"
         },
         {
-          "Ticker": "GOOGL",
+          "ticker": "GOOGL",
           "date": "2020-06-04",
           "shares": 2,
           "costs": 76.16,
@@ -87,7 +87,7 @@
           "type": "Buy"
         },
         {
-          "Ticker": "AMD",
+          "ticker": "AMD",
           "date": "2020-06-29",
           "shares": 2,
           "costs": 58.92,
@@ -96,7 +96,7 @@
           "type": "Buy"
         },
         {
-          "Ticker": "TROW",
+          "ticker": "TROW",
           "date": "2020-07-07",
           "shares": 1,
           "costs": 124.58,
@@ -105,7 +105,7 @@
           "type": "Buy"
         },
         {
-          "Ticker": "NUE",
+          "ticker": "NUE",
           "date": "2020-07-29",
           "shares": 2,
           "costs": 86.16,
@@ -114,7 +114,7 @@
           "type": "Buy"
         },
         {
-          "Ticker": "WBA",
+          "ticker": "WBA",
           "date": "2020-07-29",
           "shares": 1,
           "costs": 21.38,
@@ -123,7 +123,7 @@
           "type": "Buy"
         },
         {
-          "Ticker": "ADM",
+          "ticker": "ADM",
           "date": "2020-08-13",
           "shares": 2,
           "costs": 89.68,
@@ -132,7 +132,7 @@
           "type": "Buy"
         },
         {
-          "Ticker": "KO",
+          "ticker": "KO",
           "date": "2020-08-14",
           "shares": 1,
           "costs": 42.98,
@@ -141,7 +141,7 @@
           "type": "Buy"
         },
         {
-          "Ticker": "VZ",
+          "ticker": "VZ",
           "date": "2020-08-18",
           "shares": 1,
           "costs": 39.54,
@@ -150,7 +150,7 @@
           "type": "Buy"
         },
         {
-          "Ticker": "GOOGL",
+          "ticker": "GOOGL",
           "date": "2020-08-18",
           "shares": 1,
           "costs": 38.27,
@@ -159,7 +159,7 @@
           "type": "Buy"
         },
         {
-          "Ticker": "WBA",
+          "ticker": "WBA",
           "date": "2020-08-26",
           "shares": 4,
           "costs": 43.16,
@@ -168,7 +168,7 @@
           "type": "Buy"
         },
         {
-          "Ticker": "CSCO",
+          "ticker": "CSCO",
           "date": "2020-08-26",
           "shares": 2,
           "costs": 84.62,
@@ -177,7 +177,7 @@
           "type": "Buy"
         },
         {
-          "Ticker": "CAT",
+          "ticker": "CAT",
           "date": "2020-09-10",
           "shares": 6,
           "costs": 103.98,
@@ -186,7 +186,7 @@
           "type": "Buy"
         },
         {
-          "Ticker": "WBA",
+          "ticker": "WBA",
           "date": "2020-09-11",
           "shares": 3,
           "costs": 61.71,
@@ -195,7 +195,7 @@
           "type": "Buy"
         },
         {
-          "Ticker": "WMT",
+          "ticker": "WMT",
           "date": "2020-09-11",
           "shares": 2,
           "costs": 127.83,
@@ -204,7 +204,7 @@
           "type": "Buy"
         },
         {
-          "Ticker": "KO",
+          "ticker": "KO",
           "date": "2020-09-18",
           "shares": 5,
           "costs": 201.37,
@@ -213,7 +213,7 @@
           "type": "Buy"
         },
         {
-          "Ticker": "VZ",
+          "ticker": "VZ",
           "date": "2020-10-08",
           "shares": 3,
           "costs": 179.69,
@@ -222,7 +222,7 @@
           "type": "Buy"
         },
         {
-          "Ticker": "VZ",
+          "ticker": "VZ",
           "date": "2020-10-08",
           "shares": 1,
           "costs": 60.24,
@@ -231,7 +231,7 @@
           "type": "Buy"
         },
         {
-          "Ticker": "WBA",
+          "ticker": "WBA",
           "date": "2020-10-13",
           "shares": 6,
           "costs": 216.23,
@@ -240,7 +240,7 @@
           "type": "Buy"
         },
         {
-          "Ticker": "AMD",
+          "ticker": "AMD",
           "date": "2020-11-02",
           "shares": 8,
           "costs": 221.28,
@@ -249,7 +249,7 @@
           "type": "Buy"
         },
         {
-          "Ticker": "WBA",
+          "ticker": "WBA",
           "date": "2020-11-03",
           "shares": 2,
           "costs": 22.86,
@@ -258,7 +258,7 @@
           "type": "Buy"
         },
         {
-          "Ticker": "KO",
+          "ticker": "KO",
           "date": "2020-11-19",
           "shares": 4,
           "costs": 159.88,
@@ -267,7 +267,7 @@
           "type": "Buy"
         },
         {
-          "Ticker": "WBA",
+          "ticker": "WBA",
           "date": "2020-11-19",
           "shares": 1,
           "costs": 20.86,
@@ -276,7 +276,7 @@
           "type": "Buy"
         },
         {
-          "Ticker": "WMT",
+          "ticker": "WMT",
           "date": "2020-12-15",
           "shares": 5,
           "costs": 313.24,
@@ -285,7 +285,7 @@
           "type": "Buy"
         },
         {
-          "Ticker": "IBM",
+          "ticker": "IBM",
           "date": "2020-12-15",
           "shares": 3,
           "costs": 373.41,
@@ -294,7 +294,7 @@
           "type": "Buy"
         },
         {
-          "Ticker": "CVS",
+          "ticker": "CVS",
           "date": "2020-12-21",
           "shares": 4,
           "costs": 274.1,
@@ -303,7 +303,7 @@
           "type": "Buy"
         },
         {
-          "Ticker": "WBA",
+          "ticker": "WBA",
           "date": "2020-12-31",
           "shares": 1,
           "costs": 38.68,
@@ -312,7 +312,7 @@
           "type": "Buy"
         },
         {
-          "Ticker": "WMT",
+          "ticker": "WMT",
           "date": "2020-12-31",
           "shares": 1,
           "costs": 60.77,
@@ -321,7 +321,7 @@
           "type": "Buy"
         },
         {
-          "Ticker": "MMM",
+          "ticker": "MMM",
           "date": "2021-01-25",
           "shares": 1,
           "costs": 169.12,
@@ -330,7 +330,7 @@
           "type": "Buy"
         },
         {
-          "Ticker": "VZ",
+          "ticker": "VZ",
           "date": "2021-01-25",
           "shares": 1,
           "costs": 58.13,
@@ -339,7 +339,7 @@
           "type": "Buy"
         },
         {
-          "Ticker": "TSLA",
+          "ticker": "TSLA",
           "date": "2021-02-03",
           "shares": 2,
           "costs": 209.4,
@@ -348,7 +348,7 @@
           "type": "Buy"
         },
         {
-          "Ticker": "KO",
+          "ticker": "KO",
           "date": "2021-02-18",
           "shares": 4,
           "costs": 175.87,
@@ -357,7 +357,7 @@
           "type": "Buy"
         },
         {
-          "Ticker": "WBA",
+          "ticker": "WBA",
           "date": "2021-02-18",
           "shares": 2,
           "costs": 31.1,
@@ -366,7 +366,7 @@
           "type": "Buy"
         },
         {
-          "Ticker": "WBA",
+          "ticker": "WBA",
           "date": "2021-03-11",
           "shares": 5,
           "costs": 216.84,
@@ -375,7 +375,7 @@
           "type": "Buy"
         },
         {
-          "Ticker": "VZ",
+          "ticker": "VZ",
           "date": "2021-04-12",
           "shares": 8,
           "costs": 461.57,
@@ -384,7 +384,7 @@
           "type": "Buy"
         },
         {
-          "Ticker": "AMD",
+          "ticker": "AMD",
           "date": "2021-05-04",
           "shares": 6,
           "costs": 190.71,
@@ -393,7 +393,7 @@
           "type": "Buy"
         },
         {
-          "Ticker": "WBA",
+          "ticker": "WBA",
           "date": "2021-05-17",
           "shares": 6,
           "costs": 240.26,
@@ -402,7 +402,7 @@
           "type": "Buy"
         },
         {
-          "Ticker": "MET",
+          "ticker": "MET",
           "date": "2021-05-17",
           "shares": 4,
           "costs": 263.71,
@@ -411,7 +411,7 @@
           "type": "Buy"
         },
         {
-          "Ticker": "VZ",
+          "ticker": "VZ",
           "date": "2021-05-24",
           "shares": 6,
           "costs": 362.9,
@@ -420,7 +420,7 @@
           "type": "Buy"
         },
         {
-          "Ticker": "IBM",
+          "ticker": "IBM",
           "date": "2021-05-24",
           "shares": 2,
           "costs": 290.39,
@@ -429,7 +429,7 @@
           "type": "Buy"
         },
         {
-          "Ticker": "TSLA",
+          "ticker": "TSLA",
           "date": "2021-05-24",
           "shares": 3,
           "costs": 348.7,
@@ -438,7 +438,7 @@
           "type": "Buy"
         },
         {
-          "Ticker": "KO",
+          "ticker": "KO",
           "date": "2021-05-25",
           "shares": 4,
           "costs": 199.16,
@@ -447,7 +447,7 @@
           "type": "Buy"
         },
         {
-          "Ticker": "TSLA",
+          "ticker": "TSLA",
           "date": "2021-06-22",
           "shares": 1,
           "costs": 115.32,
