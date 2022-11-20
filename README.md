@@ -20,5 +20,22 @@ On the third page "Dividends" are widgets with total dividends and dividend yiel
 
 
 # Data Source and set Data Source
+App is ready to fetch data from REST API and also from JSON files. In directory [data](https://github.com/skapis/stockapp/tree/main/src/data) there are some JSON files with dummy data for example.
+
+Data Source for app is files by default. If you want to switch to REST API, you can do it by set variable `dataSource` from `"File"` to `"API"`. This variable is on the each page. So if you changed `dataSource` on one page, the other page will still have default `dataSource`.
+
+## API
+Before you set variable `dataSource` to API, you have to define url of endpoints. You can do this in file [APIConn.js](src/data/APIConn.js)
+
+There is simple json, which contains urls for api.
+```
+const APIURL = {
+    'APIURL': 'API Base URL',
+    "DivURL": 'API Url for Dividend Calendar data'
+}
+```
+
+
+
 
 
