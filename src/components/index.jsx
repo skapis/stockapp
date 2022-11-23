@@ -5,3 +5,4 @@ export {default as Widget} from './Widget';
 export {default as PieChart} from './PieChart';
 export {default as LineChart} from './LineChart';
 export {default as Calendar} from './Calendar';
+export {default as Select} from './Select';

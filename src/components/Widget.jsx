@@ -9,7 +9,6 @@ const Widget = ({title, value, prc, currency}) => {
         <p className="mb-2 text-sm font-semibold text-black">{title}</p>
         { title === "Gain/Loss" ?
           <p className={`text-lg font-semibold ${value < 0  ? 'text-red-600' : 'text-green-600'}`}>{value} {currency} ({prc} %)</p>
-
           :
           <p className="text-lg font-semibold text-black">{value} {currency}</p>
         }

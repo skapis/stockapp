@@ -1,0 +1,19 @@
+{
+   "currencies":[
+        {
+            "name": "United States Dollar",
+            "code": "USD",
+            "symbol": "$"
+        },
+        {
+            "name": "Euro",
+            "code": "EUR",
+            "symbol": "€"
+        },
+        {
+            "name": "Czech Koruna",
+            "code": "CZK",
+            "symbol": "Kè"
+        }
+   ]
+}
